@@ -1,5 +1,4 @@
-With over 6 months of experience in software development, I am a .NET Developer focused on building clean, scalable systems using OOP, SOLID & GRASP principles, Clean Architecture, and Domain-Driven Design (DDD).  
-I work with ASP.NET Core, Blazor WebAssembly, SignalR, and CI/CD pipelines. I enjoy clean code, real-time systems, and continuous learning.
+.NET Developer with ~1 year of experience in software design using OOP, SOLID and GRASP principles, Clean Architecture, and Domain-Driven Design (DDD). Experienced in Agile practices and Git collaboration, with a strong commitment to writing clean, maintainable, and scalable code.
 
 ---
 
