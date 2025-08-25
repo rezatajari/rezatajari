@@ -17,6 +17,9 @@
   <a href="mailto:reza.tajari70@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://x.com/RezaTajari70" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
 Or take a look at my
