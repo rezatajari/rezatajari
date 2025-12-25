@@ -1,4 +1,5 @@
 I am a .NET backend developer with over 1 years of hands-on experience building applications, primarily in smart city services. In my work, I have gained practical experience with C#, ASP.NET Core, REST APIs, OOP principles, and Azure DevOps.
+
 I enjoy problem-solving and contributing to the developer community through coding challenges and articles. I am eager to collaborate with professional teams, continue learning, and grow my skills in backend development and scalable application design.
 
 ---
