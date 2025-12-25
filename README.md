@@ -1,4 +1,5 @@
-.NET Developer with ~1 year of experience in software design using OOP, SOLID and GRASP principles, Clean Architecture, and Domain-Driven Design (DDD). Experienced in Agile practices and Git collaboration, with a strong commitment to writing clean, maintainable, and scalable code.
+I am a .NET backend developer with over 1 years of hands-on experience building applications, primarily in smart city services. In my work, I have gained practical experience with C#, ASP.NET Core, REST APIs, OOP principles, and Azure DevOps.
+I enjoy problem-solving and contributing to the developer community through coding challenges and articles. I am eager to collaborate with professional teams, continue learning, and grow my skills in backend development and scalable application design.
 
 ---
 
