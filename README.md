@@ -34,7 +34,7 @@ I write about backend development, design, architectural thinking, and lessons l
   <a href="https://www.linkedin.com/in/reza-tajari-971818151" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/RezaTajari70" target="_blank">
+  <a href="https://x.com/RezaTajari" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://t.me/rezatajari70" target="_blank">
