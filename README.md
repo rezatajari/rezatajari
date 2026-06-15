@@ -1,6 +1,6 @@
 # Hi, I'm Reza 
 
-## .NET Backend Developer
+## .NET Developer
 
 I am a .NET backend developer with hands-on experience building applications in smart city services.
 
